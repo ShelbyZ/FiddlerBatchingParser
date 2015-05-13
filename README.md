@@ -10,6 +10,10 @@ Find 3 sample traces in the 'Samples' folder.
 # UCWA
 http://ucwa.lync.com/
 
+# UCWA & Batching-Related Content
+* http://blogs.claritycon.com/ucpractice/2013/08/06/ucwa-deciphering-multipartbatching-fiddler/
+* http://blogs.claritycon.com/ucpractice/2015/04/26/ucwa-numbers-6-batch/
+
 # Build a Custom Inspector
 http://docs.telerik.com/fiddler/Extend-Fiddler/CustomInspector
 
