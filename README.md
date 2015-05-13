@@ -14,6 +14,6 @@ http://ucwa.lync.com/
 http://docs.telerik.com/fiddler/Extend-Fiddler/CustomInspector
 
 # Dependencies
-Fiddler v2.4.9.0 - http://www.telerik.com/fiddler
-Json.Net v6.0.3.17227 - https://json.codeplex.com/
-JSON Viewer v1.0.0.0 - https://jsonviewer.codeplex.com/
+* Fiddler v2.4.9.0 - http://www.telerik.com/fiddler
+* Json.Net v6.0.3.17227 - https://json.codeplex.com/
+* JSON Viewer v1.0.0.0 - https://jsonviewer.codeplex.com/
